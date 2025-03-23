@@ -117,17 +117,3 @@ If you want to contribute to this project:
 **Itika Bhatnagar**  
 [GitHub Profile](https://github.com/Itika-Bhatnagar)
 
-## License
-This project is licensed under the **MIT License**.
-
----
-**How to Use This README**  
-Replace placeholders with actual values where needed and save it as `README.md` in your project folder.
-
-To commit and push it to GitHub:
-
-```bash
-git add README.md
-git commit -m "Added README file"
-git push origin main
-```
